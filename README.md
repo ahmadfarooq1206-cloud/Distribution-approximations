@@ -1,1 +1,1 @@
-# Distribution-approximations
+Various approximations for probability distributions.
