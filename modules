@@ -1,1 +1,6 @@
-Modules
+Modules required to run this project
+
+NumPy: https://pypi.org/project/numpy/
+matplotlib: https://pypi.org/project/matplotlib/
+math: Part of the Python standard library
+SciPy: https://pypi.org/project/scipy/
