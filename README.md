@@ -1,1 +1,1 @@
-Various approximations for probability distributions.
+Various approximations for discrete and continuous probability distributions.
